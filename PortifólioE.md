@@ -12,9 +12,9 @@
 <body>
     <header class="container text-center">
         <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150" srcset="">
-        <p class="lead">Eu sou Fernanda_</p>
+        <p class="lead">Eu sou Giulia_</p>
         <h1>Ensino português e matemática</h1>
-        <p>Sou estudante do segundo ano do ensino médio, já comecei a estudar T.I dou aula para crianças sobre português e matemática.</p>
+        <p>Sou estudante do segundo ano do ensino médio, já comecei a estudar T.I, dou aula para crianças sobre português e matemática.</p>
         <p>Minhas habilidades</p>
         <div>
             <p class="badge bg-secondary">HTML</p>
